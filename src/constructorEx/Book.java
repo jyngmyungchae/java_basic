@@ -1,9 +1,9 @@
-package constructor;
+package constructorEx;
 
 public class Book {
-    String title;
-    String author;
-    int page;
+     String title;
+     String author;
+     int page;
 
     Book (String title, String author, int page){
         this.title = title;

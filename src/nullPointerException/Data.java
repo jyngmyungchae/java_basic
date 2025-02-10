@@ -1,4 +1,4 @@
-package NullPointerException;
+package nullPointerException;
 
 public class Data {
     int value;

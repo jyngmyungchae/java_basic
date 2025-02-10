@@ -1,4 +1,4 @@
-package constructor;
+package constructorEx;
 
 public class BookMain {
     public static void main(String[] args) {
@@ -13,4 +13,3 @@ public class BookMain {
         book3.displayInfo ();
     }
 }
-

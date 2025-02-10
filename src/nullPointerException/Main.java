@@ -1,4 +1,4 @@
-package NullPointerException;
+package nullPointerException;
 
 public class Main {
     public static void main(String[] args) {
